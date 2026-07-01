@@ -36,5 +36,3 @@ Langkah 2: Server menampilkan directory /assets.
 💡 Pelajaran yang Diambil (Key Takeaways)
 
 • Selalu cek apakah ada masalah atau kesalahan pada sitem konfigurasi agar tidak terjadi hal yang tidak di inginkan.
-
-[Tips mitigasi untuk mencegah celah keamanan tersebut di dunia nyata.]
