@@ -1,4 +1,4 @@
-# Root-Me-Writeups
+# Writeups CTF
 My collection of compleated CTF challenge and write-ups.
 
 ## Categories
