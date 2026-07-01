@@ -1,4 +1,4 @@
-#Nginx-Aias Misconfiguration —Off By Slash (2024_
+# Nginx-Aias Misconfiguration —Off By Slash (2024)
 
 **Kategori:** Web
 
