@@ -1,2 +1,2 @@
 # Web Challenges
-This directory contains web-releated CTF challenges
+This directory contains web-releted CTF challenges
