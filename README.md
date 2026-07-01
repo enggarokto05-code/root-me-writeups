@@ -2,11 +2,11 @@
 My collection of compleated CTF challenges and write-ups.
 
 ## Categories
-- Web
-- Network
-- Server
-- Forensics
-- Cryptography
+- [Web](./web)
+- [Network](./network)
+- [Server](./server)
+- [Forensics](./server)
+- [Cryptography](./cryptography)
 
 ## Completed Challenges
 
