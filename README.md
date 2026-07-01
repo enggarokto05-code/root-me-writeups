@@ -1,5 +1,5 @@
 # Writeups CTF
-My collection of compleated CTF challenge and write-ups.
+My collection of compleated CTF challenges and write-ups.
 
 ## Categories
 - Web
@@ -8,7 +8,7 @@ My collection of compleated CTF challenge and write-ups.
 - Forensics
 - Cryptography
 
-## Compleated Challenges
+## Completed Challenges
 
 ### Web
 - Nginx Alias Misconfiguration
